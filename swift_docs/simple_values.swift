@@ -43,3 +43,6 @@ occupations = [:]
 
 let emptyArray: [String] = []
 let emptyDictionary: [String: Float] = [:]
+
+emptyArray.append("item")
+print(emptyArray)
